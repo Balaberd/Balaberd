@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://github.com/Balaberd)" target="_blank">Aleksandr</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 
 <h3>languages and tools:</h3>
 
@@ -18,6 +18,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 <!--
 **Balaberd/Balaberd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
