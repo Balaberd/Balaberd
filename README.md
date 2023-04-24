@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://github.com/Balaberd)" target="_blank">Aleksandr</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' height='200"'>
 
