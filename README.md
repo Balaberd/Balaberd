@@ -1,5 +1,7 @@
-<h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://github.com/Balaberd)" target="_blank">Aleksandr</a> 
+<h1 align="center">Hi there, I'm 
+  <a href="[https://daniilshat.ru/](https://github.com/Balaberd)" target="_blank">Aleksandr</a> 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' height='200' width="200">
+  </h1>
 
 <h3>languages and tools:</h3>
 
