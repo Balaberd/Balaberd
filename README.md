@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="[https://daniilshat.ru/](https://github.com/Balaberd)" target="_blank">Aleksandr</a> 
   
-<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' height='200" width="200"'>
-
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' height='200'>
+<br />
 <h3>languages and tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
