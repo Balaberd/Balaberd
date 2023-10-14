@@ -2,7 +2,6 @@
   <a href="[https://daniilshat.ru/](https://github.com/Balaberd)" target="_blank">Aleksandr</a> 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' height='200' width="200">
   </h1>
-<iframe src="https://giphy.com/embed/bcKmIWkUMCjVm" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animated-hello-waving-bcKmIWkUMCjVm">via GIPHY</a></p>
 <h3>languages and tools:</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
